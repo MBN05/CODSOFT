@@ -1,0 +1,9 @@
+Random Forest Algorithm
+
+Normal execution: 0.9996 accuracy, F1 score: 0.8685, AUPRC: 0.8738
+
+Under-sampling: 0.9459 accuracy, F1 score: 0.9441, AUPRC: 0.99
+
+Over-sampling: Accuracy, F1 score & AUPRC all 1.00
+
+SMOTE Balancing: Accuracy, F1 score & AUPRC all 1.00 (with random 5000 samples from dataset and then balancing)
